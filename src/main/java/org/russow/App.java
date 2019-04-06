@@ -1,6 +1,6 @@
 package org.russow;
 
-import org.russow.util.Controller;
+import org.russow.controller.Controller;
 
 public class App {
     public static void main(String[] args) {
